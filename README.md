@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=hisashi-k&layout=compact)
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hisashi-k&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hisashi-k&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hisashi-k&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hisashi-k&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hisashi-k&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hisashi-k&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hisashi-k&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hisashi-k&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hisashi-k&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hisashi-k&theme=github&utcOffset=9)
 
 
