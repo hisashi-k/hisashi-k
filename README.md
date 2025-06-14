@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=hisashi-k)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=hisashi-k&layout=compact)
 
