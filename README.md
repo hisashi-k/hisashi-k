@@ -11,10 +11,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Stats 1
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=hisashi-k)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=hisashi-k&layout=compact)
 
-## Stats
+## Stats 2
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hisashi-k&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hisashi-k&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hisashi-k&theme=github)
